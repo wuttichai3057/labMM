@@ -1,0 +1,30 @@
+BODY {
+	FONT-SIZE: 10pt; FONT-FAMILY: Arial
+}
+TABLE {
+	FONT-SIZE: 10pt; FONT-FAMILY: Arial
+}
+H1 {
+	MARGIN-TOP: 10px; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial; TEXT-ALIGN: center
+}
+HR {
+	COLOR: #1480ba
+}
+A.topbar {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #aedcff; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A.topbar:hover {
+	COLOR: #ffffff
+}
+P.section {
+	MARGIN-TOP: 0px; FONT-WEIGHT: bold; FONT-SIZE: 14pt; MARGIN-BOTTOM: 0px; COLOR: #ffffff; FONT-FAMILY: Arial
+}
+P.sidebar {
+	MARGIN-TOP: 5px; FONT-SIZE: 10pt; MARGIN-BOTTOM: 5px; FONT-FAMILY: Arial
+}
+A.sidebar {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #1480ba; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A.sidebar:hover {
+	TEXT-DECORATION: underline
+}
